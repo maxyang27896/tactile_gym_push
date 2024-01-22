@@ -1,0 +1,11 @@
+numpy
+matplotlib
+six
+tdqm
+gym==0.17.2
+opensimplex==0.3
+kornia==0.6.4
+PyVirtualDisplay==0.2.5
+opencv-python>=4.5.1
+pybullet==3.1.0
+stable_baselines3>=1.0,<2.0
